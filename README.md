@@ -5,7 +5,7 @@
 - Natural Language Processing `python` libraries (lot of fun)
 #### BTW, I am a Data Science Graduate student @GATECH
 
-> Hop in [qiyeung.com](https://www.qiyeung.com) if you need another `Introvert` friend who knows `Coding` and `Design`
+> Hop in [qiyeung.com](https://www.qiyeung.com) if you need another **Introvert** friend who knows `Coding` and `Design`
 
 > (Also check out my projects [qiyeung.com/projects](https://www.qiyeung.com/projects)
 
