@@ -1,6 +1,5 @@
 # Hi, I’m Qi YEUNG
-### I’m currently learning 
-- `D3.js`, 
+### I’m currently learning  
 - `React` and 
 - Natural Language Processing `python` libraries (lot of fun)
 #### BTW, I am a Data Science Graduate student @GATECH
